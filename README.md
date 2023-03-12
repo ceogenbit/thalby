@@ -3,5 +3,5 @@
 - HTML
 - CSS
 - BEM
--JavaScript
+- JavaScript
 
