@@ -609,6 +609,9 @@ body {
 	font-size: 14px;
 	line-height: 21px;
 }
+.footer__about-link:hover {
+	text-decoration: underline;
+}
 .footer__about-link-item:not(:last-child) {
 	margin-bottom: 12px;
 }
@@ -624,6 +627,9 @@ body {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 21px;
+}
+.footer__contact-link:hover {
+	text-decoration: underline;
 }
 .footer__contact-link-title {
 	margin-bottom: 36px;
